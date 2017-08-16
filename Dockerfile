@@ -10,7 +10,9 @@ RUN apt-get update && \
       php \
       php-cli \
       libapache2-mod-php \
+      libicu-dev \
       php-apcu \
+      php-intl \
       php-apcu-bc \
       php-gd \
       php-json \
