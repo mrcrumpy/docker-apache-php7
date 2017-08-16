@@ -45,6 +45,7 @@ Installed packages
 * php-apcu
 * php-apcu-bc
 * php-gd
+* php-intl
 * php-json
 * php-ldap
 * php-mbstring
@@ -66,4 +67,3 @@ Default Configurations
 * php.ini:
   * display_errors = On
   * error_reporting = E_ALL (default, overridable per env variable)
-
